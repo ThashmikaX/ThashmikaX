@@ -12,8 +12,24 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 ## 🔭 Projects and Experience
 ### IoT
 
-1. **Project title**
-   - Description: description
-   - Website: website
-   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="200"/></p> -->
+1. **Realtime Electricity Usage to Cost Conversion Unit**
+   - Description: This innovative approach leverages microcontrollers and electric meters to display instant, accurate electricity billing amounts on a user-friendly interface.
+   - **[View Project Details](https://www.linkedin.com/in/sudesh-thashmika/details/projects/)** | **[Repository](https://github.com/ThashmikaX/Realtime-ElectricityBill-Calculator)**
 
+### Robotics
+
+1. **Maze Solving Robot**
+   - Description: Developed a maze-solving robot for the Micromouse competition organized by SLIIT.
+   - **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_robofest2023-micromousecompetition-universityofruhuna-activity-7164253960411840513-hKAo?utm_source=share&utm_medium=member_desktop)**
+
+### Full Stack Development
+
+1. **Personal Finance Tracking web app**
+   - Description: A MERN Stack Web Application Gain control of your finances with a user-friendly and feature-rich personal finance tracker.
+   - **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_personal-finance-tracker-a-mern-stack-web-activity-7170359006337622016-Wzkr?utm_source=share&utm_medium=member_desktop)** | **[Repository](https://github.com/ThashmikaX/Finance-Management-WebApp)**
+  
+### Mobile App Development
+
+1. **Intergalactic Travelling App - Design & Development**
+   - Description: Developed an Android app for Hackathon organized by Rootcode. 
+   - **[View Project Details](https://www.linkedin.com/in/sudesh-thashmika/details/projects/)** | **[Repository](https://github.com/ISMadusanka/rootcode-tech-triathlon)**
