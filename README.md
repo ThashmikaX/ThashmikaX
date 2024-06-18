@@ -7,8 +7,6 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 - **[Mobile App Development](https://github.com/ThashmikaX#mobile-app-development)**
 - **[Image Processing](https://github.com/ThashmikaX#image-processing)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThashmikaXK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
-
 ## 🔭 Projects and Experience
 ### IoT
 
