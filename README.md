@@ -24,7 +24,7 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 
 1. **Personal Finance Tracking web app**
    - Description: A MERN Stack Web Application Gain control of your finances with a user-friendly and feature-rich personal finance tracker.
-   - **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_personal-finance-tracker-a-mern-stack-web-activity-7170359006337622016-Wzkr?utm_source=share&utm_medium=member_desktop)** | **[Repository](https://github.com/ThashmikaX/Finance-Management-WebApp)**
+   - **[Live Site](https://finance-management-web-app-frontend.vercel.app/)** | **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_personal-finance-tracker-a-mern-stack-web-activity-7170359006337622016-Wzkr?utm_source=share&utm_medium=member_desktop)** | **[Repository](https://github.com/ThashmikaX/Finance-Management-WebApp)**
   
 ### Mobile App Development
 
