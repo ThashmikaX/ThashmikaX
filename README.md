@@ -1,7 +1,7 @@
 ## About Me
 I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Computer Engineering** at the **University of Ruhuna**. I have done some projects in:
 - **[Internet of Things (IoT)](https://github.com/ThashmikaX#iot)**
-- **[Artificial Intelligence](https://github.com/ThashmikaX#machine-learning)**
+- **[Machine Learning](https://github.com/ThashmikaX#machine-learning)**
 - **[Robotics](https://github.com/ThashmikaX#Robotics)**
 - **[Full Stack Development](https://github.com/ThashmikaX#full-stack-development)**
 - **[Mobile App Development](https://github.com/ThashmikaX#mobile-app-development)**
@@ -13,6 +13,12 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 1. **Realtime Electricity Usage to Cost Conversion Unit**
    - Description: This innovative approach leverages microcontrollers and electric meters to display instant, accurate electricity billing amounts on a user-friendly interface.
    - **[View Project Details](https://www.linkedin.com/in/sudesh-thashmika/details/projects/)** | **[Repository](https://github.com/ThashmikaX/Realtime-ElectricityBill-Calculator)**
+  
+### Machine Learning
+
+1. **Time Series Analysis - Model Development**
+   - Description: Predicting the temperature of 100 cities with old temperature data of those cities.
+   - **[Repository](https://github.com/ThashmikaX/Predicta-1.0-ML-Competition)**
 
 ### Robotics
 
