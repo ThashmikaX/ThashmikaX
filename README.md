@@ -3,7 +3,7 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 - **[Internet of Things (IoT)](https://github.com/ThashmikaX#iot)**
 - **[Machine Learning](https://github.com/ThashmikaX#machine-learning)**
 - **[Robotics](https://github.com/ThashmikaX#Robotics)**
-- **[Full Stack Development](https://github.com/ThashmikaX#full-stack-development)**
+- **[Web Development](https://github.com/ThashmikaX#web-development)**
 - **[Mobile App Development](https://github.com/ThashmikaX#mobile-app-development)**
 - **[Image Processing](https://github.com/ThashmikaX#image-processing)**
 
@@ -26,7 +26,7 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
    - Description: Developed a maze-solving robot for the Micromouse competition organized by SLIIT.
    - **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_robofest2023-micromousecompetition-universityofruhuna-activity-7164253960411840513-hKAo?utm_source=share&utm_medium=member_desktop)**
 
-### Full Stack Development
+### Web Development
 
 1. **Lensify - Community for the photography industry**
    - Description: This platform connects people who need photography with photographers who can do the job.
