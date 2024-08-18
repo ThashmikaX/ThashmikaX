@@ -28,10 +28,13 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 
 ### Web Development
 
-1. **Lensify - Community for the photography industry**
+1. **REF Media Official Website**
+   - Description: Official website for Media Network of Faculty of Engineering, Univerisity of Ruhuna.
+   - **[Live Site](https://refmedia.lk)** | **[Repository](https://github.com/ThashmikaX/refmedia-site)**
+2. **Lensify - Community for the photography industry**
    - Description: This platform connects people who need photography with photographers who can do the job.
-   - **[Live Site(Under Development)](https://lensify-photography-web-app-frontend.vercel.app/)** | **[Repository](https://github.com/ThashmikaX/Lensify-Photography-Web-App)**
-2. **Personal Finance Tracking web app**
+   - **[Live Site](https://lensify-photography-web-app-frontend.vercel.app/)** | **[Repository](https://github.com/ThashmikaX/Lensify-Photography-Web-App)**
+3. **Personal Finance Tracking web app**
    - Description: A MERN Stack Web Application Gain control of your finances with a user-friendly and feature-rich personal finance tracker.
    - **[Live Site](https://finance-management-web-app-frontend.vercel.app/)** | **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_personal-finance-tracker-a-mern-stack-web-activity-7170359006337622016-Wzkr?utm_source=share&utm_medium=member_desktop)** | **[Repository](https://github.com/ThashmikaX/Finance-Management-WebApp)**
 
