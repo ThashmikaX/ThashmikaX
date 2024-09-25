@@ -29,7 +29,7 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 ### Web Development
 
 1. **REF Media Official Website**
-   - Description: Official website for Media Network of Faculty of Engineering, Univerisity of Ruhuna.
+   - Description: Official website for Media Network of Faculty of Engineering, University of Ruhuna.
    - **[Live Site](https://refmedia.lk)** | **[Repository](https://github.com/ThashmikaX/refmedia-site)**
 2. **Lensify - Community for the photography industry**
    - Description: This platform connects people who need photography with photographers who can do the job.
@@ -37,6 +37,9 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 3. **Personal Finance Tracking web app**
    - Description: A MERN Stack Web Application Gain control of your finances with a user-friendly and feature-rich personal finance tracker.
    - **[Live Site](https://finance-management-web-app-frontend.vercel.app/)** | **[View Project Details](https://www.linkedin.com/posts/sudesh-thashmika_personal-finance-tracker-a-mern-stack-web-activity-7170359006337622016-Wzkr?utm_source=share&utm_medium=member_desktop)** | **[Repository](https://github.com/ThashmikaX/Finance-Management-WebApp)**
+4. **Sri Lanka Tourism Development Authority Website(For Competition)**
+   - Description: An innovative solution to elevate Sri Lanka's tourism industry by offering a comprehensive platform for travel services and streamlined visa processing, designed for the Sri Lankan authorities to support and enhance the tourist experience.
+   - **[View Project Details](https://github.com/EnigmasRuh/Enigmas_SriLanka_TDA)** | **[Repository](https://github.com/EnigmasRuh/Enigmas_SriLanka_TDA)**
 
   
 ### Mobile App Development
