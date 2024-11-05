@@ -13,6 +13,10 @@ I'm **Sudesh Thashmika**, currently pursuing my undergraduate studies in **Compu
 1. **Realtime Electricity Usage to Cost Conversion Unit**
    - Description: This innovative approach leverages microcontrollers and electric meters to display instant, accurate electricity billing amounts on a user-friendly interface.
    - **[View Project Details](https://www.linkedin.com/in/sudesh-thashmika/details/projects/)** | **[Repository](https://github.com/ThashmikaX/Realtime-ElectricityBill-Calculator)**
+
+2. **IOT system of Solar Thermal Air Pre-Heater for Industrial Electric Convection Dryers**
+   - Description: Showing tempareture and flow-rate value in realtime dashboard and save data to database for later analysis.
+   - **[Repository](https://github.com/ThashmikaX/Solar-Project)**
   
 ### Machine Learning
 
