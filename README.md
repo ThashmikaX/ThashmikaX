@@ -23,6 +23,9 @@ I'm **Sudesh Thashmika**, and I am currently pursuing my undergraduate studies i
 1. **Time Series Analysis - Model Development**
    - Description: Predicting the temperature of 100 cities with old temperature data of those cities.
    - **[Repository](https://github.com/ThashmikaX/Predicta-1.0-ML-Competition)**
+2. **Malaria Detection using Cell Images**
+   - Description: This project aims to develop a machine learning model to detect malaria from cell images with high accuracy.
+   - **[Live Site](https://malaria-detection-six.vercel.app/)** | **[Repository](https://github.com/ThashmikaX/Malaria-Detection-Model)**
 
 ## Robotics
 
